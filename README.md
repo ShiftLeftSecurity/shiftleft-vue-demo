@@ -1,5 +1,7 @@
 # sl-vue
 
+Sample app to test Vue.js 2 with ShiftLeft NG SAST.
+
 ## Project setup
 ```
 yarn install
